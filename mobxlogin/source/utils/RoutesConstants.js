@@ -1,0 +1,17 @@
+export default {
+  ROOT: 'root',
+  DASHBOARD: 'dashboard',
+  HOME_STACK: 'home',
+  HOME: '_home',
+  SHOPPING_STACK: 'shopping',
+  SHOPPING: '_shopping',
+  CART_STACK: 'cart',
+  CART: '_cart',
+  STATISTICS_STACK: 'statistics',
+  STATISTICS: '_statistics',
+  MORE_STACK: 'more',
+  MORE: '_more',
+  ADD_ITEM: 'addItem',
+  SCAN_RECEIPT: 'scanReceipt',
+  SCAN_RESULT: 'scanResult',
+};
